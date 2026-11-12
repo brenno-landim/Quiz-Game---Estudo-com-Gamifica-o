@@ -1,5 +1,9 @@
 # 🏴‍☠️ Quiz de Estudos com Gamificação
 
+## 🔗 Acesse o projeto
+
+[Quiz Duel — luta de perguntas no estilo One Piece](https://punch-and-learn.lovable.app/)
+
 ## 🎮 Sobre o projeto
 
 A gamificação é uma das melhores formas de se engajar em algo, e no aprendizado não é diferente. A ideia deste quiz é focar no aprendizado de determinado conteúdo com algo de que o usuário goste, neste exemplo, o anime One Piece. 🍖⚓
